@@ -21,7 +21,7 @@ This project wouldn't be possible without:
 
 Special thanks also to the [Text Technology Lab](https://www.texttechnologylab.org/) of the Goethe University Frankfurt from which department this project originates from. 
 
-# ![ROBERT HAND ONLY Symbol_SMALL 800x600](https://github.com/TheItCrOw/R.O.B.E.R.T./assets/49918134/0de526b4-b39f-4159-b25c-397af3a55602) About
+# About
 
 This repository aims to provide a streamlined process for generating a language model that has the ability to assist and chat with users in a specific domain context: <b>Your own R.O.B.E.R.T.</b> 
 
@@ -38,7 +38,7 @@ This project takes these approaches even further by:
 
 💬 Finally, we wish to provide an assistant that is capable of organic, proactive chatting and dialog, in contrast to being just an instruction-following model. 
 
-# ![ROBERT HAND ONLY Symbol_SMALL 800x600](https://github.com/TheItCrOw/R.O.B.E.R.T./assets/49918134/0de526b4-b39f-4159-b25c-397af3a55602) Process
+# Process
 
 
 We have created a R.O.B.E.R.T. for a fictional scenario in a virtual reality application. In this fictional scenario, "Rob" is a virtual reality assistant that helps students of the TTL Corporation college about anything related to their day to day buisness. To do so, we wrote down bulletpoints of this fictive scenario that we want Rob to know:
